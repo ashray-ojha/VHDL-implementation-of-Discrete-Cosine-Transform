@@ -1,0 +1,5 @@
+vhdl isim_temp "subtractor.vhd"
+vhdl isim_temp "multiplier.vhd"
+vhdl isim_temp "adder.vhd"
+vhdl isim_temp "DCT.vhd"
+vhdl isim_temp "DCTtest.vhd"

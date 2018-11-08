@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/Users/Ashish Ojha/Desktop/vlsi/multiplier/file1.xst" -ofn "C:/Users/Ashish Ojha/Desktop/vlsi/multiplier/file1.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashish Ojha/Desktop/vlsi/multiplier/file1.xst" -ofn "C:/Users/Ashish Ojha/Desktop/vlsi/multiplier/file1.syr" 
+xst -intstyle ise -ifn "C:/Users/Ashish Ojha/Desktop/vlsi/multiplier/file1.xst" -ofn "C:/Users/Ashish Ojha/Desktop/vlsi/multiplier/file1.syr" 

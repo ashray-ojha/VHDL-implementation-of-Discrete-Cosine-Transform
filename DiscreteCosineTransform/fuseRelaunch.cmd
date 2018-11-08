@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Ashish Ojha/Desktop/DiscreteCosineTransform/DCTtest_isim_beh.exe" -prj "C:/Users/Ashish Ojha/Desktop/DiscreteCosineTransform/DCTtest_beh.prj" "work.DCTtest" 
