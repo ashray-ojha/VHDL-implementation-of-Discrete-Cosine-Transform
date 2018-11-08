@@ -1,0 +1,28 @@
+Command line:
+   DCTtest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  52925
+
+Fri Apr 13 15:56:48 2018
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 1038.67 Meg
+
+ Total Signals          : 413
+ Total Nets             : 3493
+ Total Signal Drivers   : 309
+ Total Blocks           : 56
+ Total Primitive Blocks : 54
+ Total Processes        : 246
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 3994
+
+ Total Simulation Time: 0.21875 sec
+
+ Current Memory Usage: 1038.67 Meg
+
+Fri Apr 13 15:57:08 2018
+
